@@ -1,0 +1,7 @@
+install newspaper v3
+install numpy
+install flask
+install flask-OAuthlib
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+install pygame
+
